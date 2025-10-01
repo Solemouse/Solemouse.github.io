@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SecondPage</title>
+</head>
+<body>
+    <h3>Sole's</h3>
+    <h1>Second</h1>
+    <h2>Page</h2>
+    <p>248-434-5508</p>
+    <ul>
+        <li>Cat</li>
+        <li>5796</li>
+        <li>acid</li>
+    </ul>
+    <ol>
+        <li>Ragdoll</li>
+        <li>Magnet</li>
+        <li>Hydrochloric</li>
+    </ol>
+<img> src="Miata.jpg" alt="Miata" width="334" height="251" </img>
+</body>
+</html>
